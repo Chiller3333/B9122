@@ -1,5 +1,6 @@
 # B9122
 Computing for Business Research
+
 Columbia Business School
 
 This repo is for future use in the course B9122 - Computing for Business Research.
