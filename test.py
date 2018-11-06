@@ -129,3 +129,4 @@ for i in range(1, input_len):       #compare element by element
         output.append(i)            #add this information element by element
 
 print(output)                       #print the result
+print("WHAT THE HELL")
